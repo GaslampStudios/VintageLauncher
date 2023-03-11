@@ -1,0 +1,8 @@
+2023-03-10 | 0.2.3 
+ + FIXED - Can't read .cs and .dll mods #2
+ + DUPLICATE - error on first install #5
+ + Added NLog logging framework for better defect reporting.
+
+2023-03-09 | 0.2.2 | 
+ + Initial public release of "preview version"
+
